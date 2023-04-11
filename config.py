@@ -1,3 +1,4 @@
 class Config():
     def __init__(self) -> None:
-        pass
+        self.node_number = 10
+        self.edge_server = 2
