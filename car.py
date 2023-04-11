@@ -73,3 +73,4 @@ class ElectricCar(Car):
         super().__init__(make, model, year)
         self.battery=Battery()
 
+#测试
